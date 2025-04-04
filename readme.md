@@ -4,7 +4,7 @@ Du vil her få tildelt to del oppgaver.
 
 ## Del 1
 - Språket som skal brukes her er Powershell
-  - Du velger som du vil bruke Powershell 5 eller Powershell 7, det anbefales at du bruker Powershell 7.
+  - Du velger som du vil bruke Powershell 5 eller Powershell 7, vi anbefaler at du bruker Powershell 7.
 - Sjekk i hver undermappe for hver oppgave om det finnes noen relaterte dokumenter du trenger å bruke i oppgaven.
 
 Fork prosjektet og push svarene dine i ditt eget repo.
