@@ -69,7 +69,7 @@ Denne nettsiden er viktig for kundeinformasjon, ukens tilbud, og kanskje medlems
 Alarmen er bekreftet, og `coop.no` gir en 500 errorkode -feil.
 
 **Din første oppgave:**
-Hvilke konkrete steg tar du *umiddelbart* for å feilsøke og identifisere årsaken til at `srvcoop01` serverer en 403-feil for `coop.no`?
+Hvilke konkrete steg tar du *umiddelbart* for å feilsøke og identifisere årsaken til at `server-coop01` serverer en 500-feil for `coop.no`?
 
 * Beskriv din fremgangsmåte.
 * Hvilke verktøy/kommandoer vurderer du å bruke?
