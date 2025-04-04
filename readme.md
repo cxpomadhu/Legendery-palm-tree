@@ -50,11 +50,11 @@ Forslag til API:
 - [RestCountries](https://restcountries.com/)
 
 
-# Case: Nettside Nede - coop.no 🆘
+# Case: Nettside Nede - coop.no 
 
 Velkommen til denne casem! Målet er å se hvordan du håndterer en typisk hendelse.
 
-## Situasjonsbeskrivelse 📄
+## Situasjonsbeskrivelse 
 
 Du jobber på IT-drift/supportavdelingen hos Coop Norge. Klokken er **[sett inn relevant tidspunkt, f.eks. 09:15 en tirsdag morgen]**, og du mottar en kritisk alarm fra overvåkningssystemet.
 
@@ -64,7 +64,7 @@ Du jobber på IT-drift/supportavdelingen hos Coop Norge. Klokken er **[sett inn 
 
 Denne nettsiden er viktig for kundeinformasjon, ukens tilbud, og kanskje medlemsinnlogging. Nedetid kan påvirke både kunder og omdømme negativt.
 
-## Oppgave 1: Innledende Analyse og Feilsøking 🛠️
+## Oppgave 1: Innledende Analyse og Feilsøking 
 
 Alarmen er bekreftet, og `coop.no` gir en 500 errorkode -feil.
 
@@ -76,7 +76,7 @@ Hvilke konkrete steg tar du *umiddelbart* for å feilsøke og identifisere årsa
 
 > *Her forventes det at du beskriver typiske feilsøkingssteg for en 403-feil. Tenk på logger (webserver, system), fil-/mapperettigheter, webserver-konfigurasjon (f.eks. `.htaccess`, vhost), brannmur/WAF-regler, tjenestestatus osv.*
 
-## Oppgave 2: Eskalering og Kommunikasjon 📢
+## Oppgave 2: Eskalering og Kommunikasjon 
 
 Du har nå brukt **ca. 15-20 minutter** på feilsøking basert på stegene i oppgave 1. Vanlige feilkilder er sjekket, men årsaken er fortsatt ukjent, og nettsiden er fremdeles nede med 403-feil. Du innser at dette kan ta lengre tid eller kreve hjelp fra andre team (f.eks. nettverk, sikkerhet, utvikling).
 
