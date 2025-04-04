@@ -4,7 +4,7 @@ Du vil her få tildelt to del oppgaver.
 
 ## Del 1
 - Språket som skal brukes her er Powershell
-  - Du velger som du vil bruke Powershell 5 eller Powershell 7, men jeg anbefaler Powershell 7.
+  - Du velger som du vil bruke Powershell 5 eller Powershell 7, det anbefales at du bruker Powershell 7.
 - Sjekk i hver undermappe for hver oppgave om det finnes noen relaterte dokumenter du trenger å bruke i oppgaven.
 
 Fork prosjektet og push svarene dine i ditt eget repo.
@@ -17,7 +17,7 @@ Her vil du få en case som du skal løse på best mulig måte.
 
 
 
-Hvis du har noen spørsmål, eller noe er usikkert kan du kontakte meg direkte.
+Hvis du har noen spørsmål, eller noe er usikkert kan du kontakte utsender av denne oppgaven direkte. 
 
 # Powershell oppgaver
 
@@ -52,7 +52,7 @@ Forslag til API:
 
 # Case: Nettside Nede - coop.no 
 
-Velkommen til denne casem! Målet er å se hvordan du håndterer en typisk hendelse.
+Velkommen til denne casen! Målet er å se hvordan du håndterer en typisk hendelse.
 
 ## Situasjonsbeskrivelse 
 
