@@ -74,7 +74,7 @@ Hvilke konkrete steg tar du *umiddelbart* for å feilsøke og identifisere årsa
 * Beskriv din fremgangsmåte.
 * Hvilke verktøy/kommandoer vurderer du å bruke?
 
-> *Her forventes det at du beskriver typiske feilsøkingssteg for en 403-feil. Tenk på logger (webserver, system), fil-/mapperettigheter, webserver-konfigurasjon (f.eks. `.htaccess`, vhost), brannmur/WAF-regler, tjenestestatus osv.*
+> *Her forventes det at du beskriver typiske feilsøkingssteg for en 500-feil. Tenk på logger (webserver, system), fil-/mapperettigheter, webserver-konfigurasjon (f.eks. `.htaccess`, vhost), brannmur/WAF-regler, tjenestestatus osv.*
 
 ## Oppgave 2: Eskalering og Kommunikasjon 
 
